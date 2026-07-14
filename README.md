@@ -7,3 +7,17 @@
 A hands-on Git practice repository demonstrating essential Git commands used in day-to-day software development. This project covers Git configuration, repository initialization, file tracking, committing changes, connecting to a remote repository, pushing to GitHub, and preparing a repository for GitHub Actions workflows.
 
 Each exercise includes the command executed, a brief explanation, and a corresponding screenshot captured in Visual Studio Code.
+
+## 🎯 Learning Objectives
+
+By completing this project, you will learn how to:
+
+- Configure Git with a global username and email.
+- Initialize a new Git repository.
+- Create and track files using Git.
+- Stage changes before committing.
+- Create meaningful commits using conventional commit messages.
+- Connect a local repository to a remote GitHub repository.
+- Push commits to GitHub.
+- Create the directory structure required for GitHub Actions.
+- Document Git workflows using Markdown.
