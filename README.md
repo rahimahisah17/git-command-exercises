@@ -43,3 +43,16 @@ git-command-exercises/
 ├── README.md
 └── index.html
 ```
+## 🚀 Exercises
+
+### 1. Configure Git
+
+**Command**
+
+```bash
+git config --global user.name "DevUser" && git config --global user.email "dev@skill-sch.com"
+```
+
+**Screenshot**
+
+![Configure Git](screenshots/config.png)
