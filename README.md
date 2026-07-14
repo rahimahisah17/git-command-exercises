@@ -21,3 +21,25 @@ By completing this project, you will learn how to:
 - Push commits to GitHub.
 - Create the directory structure required for GitHub Actions.
 - Document Git workflows using Markdown.
+```
+## 📁 Project Structure
+
+```text
+git-command-exercises/
+├── .github/
+│   └── workflows/
+│       └── deploy.yml
+├── screenshots/
+│   ├── config.png
+│   ├── init.png
+│   ├── index.png
+│   ├── vim.png
+│   ├── stage.png
+│   ├── commit.png
+│   ├── remote.png
+│   ├── push.png
+│   ├── workflow.png
+│   └── deploy.png
+├── README.md
+└── index.html
+```
