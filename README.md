@@ -47,12 +47,58 @@ git-command-exercises/
 
 ### 1. Configure Git
 
-**Command**
+Configure the global Git username and email.
 
 ```bash
 git config --global user.name "DevUser" && git config --global user.email "dev@skill-sch.com"
 ```
 
-**Screenshot**
-
 ![Configure Git](screenshots/config.png)
+
+---
+
+### 2. Initialize a Repository
+
+Create a project directory and initialize Git.
+
+```bash
+mkdir git-command-exercises && cd git-command-exercises && git init
+```
+
+![Initialize Repository](screenshots/init.png)
+
+---
+
+### 3. Create a File
+
+Create the `index.html` file.
+
+```bash
+touch index.html
+```
+
+![Create File](screenshots/index.png)
+
+---
+
+### 4. Open the File in Vim
+
+Open `index.html` using Vim.
+
+```bash
+vim index.html
+```
+
+![Open in Vim](screenshots/vim.png)
+
+---
+
+### 5. Stage the File
+
+Stage the file for commit.
+
+```bash
+git add index.html
+```
+
+![Stage File](screenshots/stage.png)
