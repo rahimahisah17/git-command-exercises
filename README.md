@@ -22,9 +22,8 @@ By completing this project, you will learn how to:
 - Create the directory structure required for GitHub Actions.
 - Document Git workflows using Markdown.
 ```
-## 📁 Project Structure
+📁 Project Structure
 
-```text
 git-command-exercises/
 ├── .github/
 │   └── workflows/
