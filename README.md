@@ -160,3 +160,7 @@ touch .github/workflows/deploy.yml
 ```
 
 ![Deployment Workflow](screenshots/deploy.png)
+
+## 📄 License
+
+This project is licensed under the MIT License.
