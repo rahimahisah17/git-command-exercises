@@ -102,3 +102,61 @@ git add index.html
 ```
 
 ![Stage File](screenshots/stage.png)
+
+### 6. Commit Changes
+
+Commit the staged changes.
+
+```bash
+git commit -m "feat: add home page"
+```
+
+![Commit Changes](screenshots/commit.png)
+
+---
+
+### 7. Add a Remote Repository
+
+Connect the local repository to GitHub.
+
+```bash
+git remote add origin https://github.com/rahimahisah17/git-command-exercises.git
+```
+
+![Add Remote](screenshots/remote.png)
+
+---
+
+### 8. Push to GitHub
+
+Push the local branch to the remote repository.
+
+```bash
+git push -u origin main
+```
+
+![Push to GitHub](screenshots/push.png)
+
+---
+
+### 9. Create the GitHub Actions Workflow Directory
+
+Create the directory structure for GitHub Actions.
+
+```bash
+mkdir -p .github/workflows
+```
+
+![Workflow Directory](screenshots/workflow.png)
+
+---
+
+### 10. Create the Deployment Workflow
+
+Create the deployment workflow file.
+
+```bash
+touch .github/workflows/deploy.yml
+```
+
+![Deployment Workflow](screenshots/deploy.png)
